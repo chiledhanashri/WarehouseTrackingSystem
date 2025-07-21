@@ -1,0 +1,16 @@
+{
+    "dotnet.defaultSolution": "ConsoleApp1.sln",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PG Local",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "Post123",
+            "connectionTimeout": 30
+        }
+    ]
+}
